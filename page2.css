@@ -6,27 +6,23 @@
 
 .my-container{
 
-    border-color:#aaa;
+    border:  1px solid #aaa;
     background-color: white;
     max-width: 600px;
     margin: 10px auto;
     padding: 1rem;
-    text-shadow:5px 5px 5px #aaa;
+    box-shadow:5px 5px 5px #aaa;
     }
 
 .my-highlight{
-    color: orangered;
+color: orangered;
 text-decoration: overline;
 font-size: 4rem;
 }
 
-/*12. Reduce the width to: 20%*/
-/*13. Set border as: 10px solid orangered*/
-/*14. Shift to the left using margin-left*/
-
 .my-hr{
     width: 20%;
     border: 10px solid orangered;
-    margin-left: left;
+    margin-left: 0;
 
 }
