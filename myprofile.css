@@ -1,0 +1,11 @@
+
+
+.my-photo{
+    background-image: url("YogaAyurvedajpg.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+
+
